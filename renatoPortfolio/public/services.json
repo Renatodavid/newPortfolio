@@ -1,0 +1,24 @@
+
+[
+    {
+      "title": "Java",
+      "icon": "/images/java.png",
+      "description": "Utilizando Java e C# para desenvolvimento de funcionalidades para backend."
+    },
+    {
+      "title": "Web development",
+      "icon": "/images/java.png",
+      "description": "High-quality development of sites at the professional level."
+    },
+    {
+      "title": "Mobile apps",
+      "icon": "/images/java.png",
+      "description": "Professional development of applications for iOS and Android."
+    },
+    {
+      "title": "Photography",
+      "icon": "/images/java.png",
+      "description": "I make high-quality photos of any category at a professional levela."
+    }
+  ]
+  

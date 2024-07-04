@@ -1,0 +1,61 @@
+[
+  
+  {
+    "title": "Site para Corretor Imobiliário",
+    "category": "WEB- Mobile",
+    "date": "Feb 23, 2024",
+    "image": "/images/lucas.jpg",
+    "description": "Desenvolvi um site para um cliente do setor imobiliário, com o objetivo de promover seu trabalho como corretor. O site foi criado utilizando HTML, CSS e JavaScript, proporcionando uma plataforma profissional e funcional para divulgar imóveis e facilitar o contato com clientes potenciais."
+  },
+  {
+    "title": "RenatoFullDev",
+    "category": "WEB- Mobile",
+    "date": "Feb 23, 2024",
+    "image": "/images/quemsoueu.jpg",
+    "description": "Desenvolvi um site pessoal para destacar minhas habilidades e projetos como Frontend Developer. O objetivo foi criar uma plataforma profissional e acessível, onde eu pudesse apresentar meu trabalho e facilitar o contato com potenciais empregadores e colegas de profissão.."
+  },
+   
+    {
+      "title": "E-Commerce para Estudo e Aprendizado",
+      "category": "Design",
+      "date": "Jan 23, 2024",
+      "image": "/images/ECommerce.jpg",
+      "description": "Desenvolvi um E-Commerce como projeto de estudo e aprendizado, utilizando PHP, MySQL, HTML e CSS. O objetivo foi aprofundar meus conhecimentos em desenvolvimento web e em tecnologias de backend e frontend. O site inclui funcionalidades de cadastro de produtos, gerenciamento de estoque, carrinho de compras e sistema de autenticação de usuários."
+    },
+    {
+      "title": "Agência de Viagens Versão antiga para Estudo e Divulgação",
+      "category": "Design",
+      "date": "Feb 23, 2024",
+      "image": "/images/agencia1.jpg",
+      "description": "Desenvolvi um site para uma agência de viagens como projeto de estudo e divulgação, utilizando HTML, CSS e JavaScript. O objetivo foi aprofundar meus conhecimentos em desenvolvimento web e criar uma plataforma funcional e atraente para promover pacotes de viagens e facilitar o contato com clientes potenciais."
+    },
+    {
+      "title": "Agência de Viagens Versão atualizada para Estudo e Divulgação",
+      "category": "WEB- Mobile",
+      "date": "Feb 23, 2023",
+      "image": "/images/Agencia2.jpg",
+      "description": "Desenvolvi um site para uma agência de viagens como projeto de estudo e divulgação, utilizando Html, CSS e React . O objetivo foi aprofundar meus conhecimentos em desenvolvimento web e criar uma plataforma funcional e atraente para promover pacotes de viagens e facilitar o contato com clientes potenciais."
+    },
+    {
+      "title": "Criação de Site Responsivo para Estudo e Divulgação",
+      "category": "WEB- Mobile",
+      "date": "Feb 23, 2024",
+      "image": "/images/advogados.jpg",
+      "description": "Desenvolvi um site responsivo utilizando HTML, CSS e JavaScript, com o objetivo de proporcionar uma experiência de navegação otimizada em diversos dispositivos. O projeto focou em criar um design adaptável, interativo e visualmente atraente, garantindo que o conteúdo fosse acessível e funcional tanto em desktops quanto em dispositivos móveis."
+    },
+    {
+      "title": "Criação do 1° portfolio para Estudo e Divulgação",
+      "category": "WEB- Mobile",
+      "date": "Jul 03, 2024",
+      "image": "/images/1portfolio.jpg",
+      "description": "Descrição: Desenvolvi uma versão inicial do meu portfólio utilizando HTML, CSS e JavaScript, com o objetivo de apresentar minhas habilidades, projetos e experiências profissionais de forma clara e acessível. ."
+    },
+     {
+      "title": "Consumo da API do Pokémon",
+      "category": "WEB- Mobile",
+      "date": "Jul 03, 2024",
+      "image": "/images/pok.jpg",
+      "description": " Desenvolvi uma aplicação web que consome a API do Pokémon, utilizando HTML, CSS e JavaScript. O objetivo do projeto foi aprender e aplicar conceitos de consumo de APIs RESTful, manipulação de dados JSON e criação de uma interface interativa e amigável para o usuário."
+    }
+  ]
+  

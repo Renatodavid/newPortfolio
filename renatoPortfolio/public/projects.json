@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Agencia de Viagens",
+      "category": "Web-Mobile",
+      "image": "/images/agencia1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Agencia de Viagens Atualizada",
+      "category": "Web-Mobile",
+      "image": "/images/Agencia2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "E-Commerce para Estudo e Aprendizado",
+      "category": "Web-Mobile",
+      "image": "/images/ECommerce.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Criação de Site Responsivo para Estudo e Divulgação",
+      "category": "WEB- Mobile",
+      "image": "/images/advogados.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Criação do 1° portfolio para Estudo e Divulgação",
+      "category":  "WEB- Mobile",
+      "image": "/images/1portfolio.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Site para Corretor Imobiliário",
+      "category": "Web- Mobile",
+      "image": "/images/lucas.jpg"
+    },
+    {
+      "id": 7,
+      "title": "RenatoFullDev",
+      "category": "Web- Mobile",
+      "image": "/images/quemsoueu.jpg"
+    }
+  ]
+  

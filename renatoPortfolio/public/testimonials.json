@@ -1,0 +1,27 @@
+
+[
+    {
+      "name": "Gabriel Mesquita",
+      "avatar": "/images/Gabriel.jpeg",
+      "testimonial": "Renato é dedicado, comunicativo e proativo, sempre buscando soluções e ajudando colegas. Pronto para iniciar na tecnologia, entregará excelentes resultados onde estiver." },
+    {
+      "name": "Bruna Lins",
+      "avatar": "/images/bruna.jpeg",
+      "testimonial": "Renato se destacou na Recode Pro com proatividade, dedicação e interesse nas entregas, sempre buscando melhorar com feedbacks. Preocupado com os amigos, esteve sempre disposto a ajudar e certamente se destacará em qualquer lugar."
+    },
+    {
+      "name": "Prof. Flavio Mota",
+      "avatar": "/images/flavio.jpeg",
+      "testimonial": "Ótimo aluno, bastante participativo, muito dedicado aos estudos, sempre buscando superar seus conhecimentos e otima relação com seus pares. Tecnicamente sempre buscando se superar."
+    },
+    {
+      "name": "Erika Alves",
+      "avatar": "/images/erika.jpeg",
+      "testimonial": "Renato se destacou como aluno e amigo exemplar, com foco em Java e Spring Boot, habilidades sólidas no desenvolvimento de soluções eficientes, e grande capacidade de fortalecer relações interpessoais em equipes de desenvolvimento."
+    },{
+      "name": "Marconi Sena",
+      "avatar": "/images/marconi.jpeg",
+      "testimonial": "Renato Marques é um colega de estudos talentoso e comprometido. Sua dedicação exemplar ao trabalho acadêmico e seu profundo conhecimento na área de tecnologia o destacam entre os colegas."
+    }
+  ]
+  

@@ -1,8 +1,6 @@
-Claro! Aqui está o README completo com as instruções de como executar o projeto incluídas:
 
-### Markdown
 
-```markdown
+
 # RenatoFullDev Portfolio
 
 🚀 Estou empolgado em compartilhar meu novo portfólio desenvolvido com React e Vite! 🌐💻

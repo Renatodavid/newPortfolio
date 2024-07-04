@@ -99,7 +99,7 @@ documentadas para o back-end."
           />
           <TimelineItem
             title="One Programação T6/ Alura"
-            date="2010 — 2013 + 330h"
+            date="2024 — 2024+ 330h"
             description="Iniciante em Programação T6: Especializando-me na área de programação back-end.
 Adquiri habilidades em lógica de programação utilizando a linguagem JAVA.
 Aprofundei meu conhecimento em linguagens de programação amplamente utilizadas no

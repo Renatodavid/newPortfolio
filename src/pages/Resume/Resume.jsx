@@ -40,7 +40,7 @@ MySQL, Node.js, React, Express, MongoDB, e outros frameworks. 540Hrs."
           <TimelineItem
             title="Técnico Mecânica Industrial, WMSCHOLL "
             date="Jan - 2019 — Dez -2020"
-            description="Tecnico em mecanica industrial especializado em documentações par aliberações de servico de manutenção."
+            description="Técnico em mecânica industrial, especializado em documentações para liberações de serviço de manutenção."
           />
         </ol>
       </div>

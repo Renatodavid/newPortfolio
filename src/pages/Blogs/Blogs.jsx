@@ -1,6 +1,7 @@
+// Blogs.js
 import React, { useEffect, useState } from 'react';
 import BlogPost from './BlogPost';
-import './Blogs.css'
+import './Blogs.css';
 
 const Blogs = () => {
   const [blogs, setBlogs] = useState([]);
@@ -12,7 +13,7 @@ const Blogs = () => {
       .then(response => response.json())
       .then(data => {
         setBlogs(data);
-      })
+      });
   }, []);
 
   // Get current posts
@@ -38,6 +39,7 @@ const Blogs = () => {
               date={post.date}
               image={post.image}
               description={post.description}
+              url={post.url}
             />
           ))}
         </ul>
@@ -66,6 +68,6 @@ const Blogs = () => {
       </nav>
     </section>
   );
-}
+};
 
 export default Blogs;

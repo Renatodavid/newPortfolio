@@ -7,7 +7,7 @@ const Portfolio = () => {
   const [filteredProjects, setFilteredProjects] = useState([]);
 
   // State to store the selected category
-  const [selectedCategory, setSelectedCategory] = useState('All');
+  const [selectedCategory, setSelectedCategory] = useState('Site', 'Web', 'Mobile');
 
   // Load project data from projects.json
   useEffect(() => {
@@ -17,13 +17,13 @@ const Portfolio = () => {
         setProjects(data);
         setFilteredProjects(data);
       })
-      .catch(error => console.error('Error loading project data:', error));
+      .catch(error => console.error('Erro ao buscar os dados:', error));
   }, []);
 
   // Function to handle category filter selection
   const handleFilterClick = (category) => {
     setSelectedCategory(category);
-    if (category === 'All') {
+    if (category === 'Site') {
       setFilteredProjects(projects);
     } else {
       const filtered = projects.filter(project => project.category === category);
@@ -39,12 +39,14 @@ const Portfolio = () => {
 
       {/* Filter buttons */}
       <ul className="filter-list">
-        {['All'].map(category => (
+        {['Site','Web', 'Mobile'].map(category => (
           <li className="filter-item" key={category}>
+           
             <button
               className={category === selectedCategory ? 'active' : ''}
               onClick={() => handleFilterClick(category)}
               data-filter-btn
+              
             >
               {category}
             </button>
@@ -61,8 +63,9 @@ const Portfolio = () => {
               data-filter-item
               data-category={project.category}
               key={project.id}
+              
             >
-              <a href="#">
+              <a href={project.url} target='_blank'loading="lazy" > 
                 <figure className="project-img">
                   <div className="project-item-icon-box">
                     <FaRegEye />

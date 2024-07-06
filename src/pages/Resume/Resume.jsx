@@ -114,6 +114,7 @@ mundo, preparando-me para enfrentar desafios nessa área."
           <SkillItem title="HTML & CSS" value={90} />
           <SkillItem title="Metodogias Ágeis" value={90} />
           <SkillItem title="Metodologia Scrum" value={90} />
+          <SkillItem title="Bootstrap" value={80} />
           <SkillItem title="Java" value={70} />
           <SkillItem title="JavaScript" value={60} />
           <SkillItem title="Vite + React" value={40} />

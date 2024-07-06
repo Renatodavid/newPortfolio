@@ -1,11 +1,13 @@
 
+import React from 'react';
 
-const BlogPost = ({ title, category, date, image, description }) => {
+
+const BlogPost = ({ title, category, date, image, description, url }) => {
   return (
     <li className="blog-post-item">
-      <a href="#">
+      <a href={url} target="_blank" rel="noopener noreferrer" loading="lazy">
         <figure className="blog-banner-box">
-          <img src={image} alt={title} loading="lazy"/>
+          <img src={image} alt={title} loading="lazy" />
         </figure>
         <div className="blog-content">
           <div className="blog-meta">

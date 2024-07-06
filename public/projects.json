@@ -2,44 +2,51 @@
     {
       "id": 1,
       "title": "Agencia de Viagens",
-      "category": "Web-Mobile",
-      "image": "/images/agencia1.jpg"
+      "category": "web mobile",
+      "image": "/images/agencia1.jpg",
+      "url": "https://primeirositerecode.netlify.app/"
     },
     {
       "id": 2,
       "title": "Agencia de Viagens Atualizada",
-      "category": "Web-Mobile",
-      "image": "/images/Agencia2.jpg"
+      "category": "Site",
+      "image": "/images/Agencia2.jpg",
+       "url": "https://agenciadeviagensrr.netlify.app/"
     },
     {
       "id": 3,
       "title": "E-Commerce para Estudo e Aprendizado",
-      "category": "Web-Mobile",
-      "image": "/images/ECommerce.jpg"
+      "category": "Site",
+      "image": "/images/ECommerce.jpg",
+       "url": "https://redcomerce.netlify.app/"
     },
     {
       "id": 4,
       "title": "Criação de Site Responsivo para Estudo e Divulgação",
-      "category": "WEB- Mobile",
-      "image": "/images/advogados.jpg"
+      "category": "Web",
+      "image": "/images/advogados.jpg",
+       "url": "https://advocacianew.netlify.app/"
     },
     {
       "id": 5,
       "title": "Criação do 1° portfolio para Estudo e Divulgação",
-      "category":  "WEB- Mobile",
-      "image": "/images/1portfolio.jpg"
+      "category":  "Web",
+      "image": "/images/1portfolio.jpg",
+       "url": "https://renatomportfolio.netlify.app/"
     },
     {
       "id": 6,
       "title": "Site para Corretor Imobiliário",
-      "category": "Web- Mobile",
-      "image": "/images/lucas.jpg"
+      "category": "Mobile",
+      "image": "/images/lucas.jpg",
+       "url": "https://grupomarquesbr.netlify.app/"
     },
     {
       "id": 7,
       "title": "RenatoFullDev",
-      "category": "Web- Mobile",
-      "image": "/images/quemsoueu.jpg"
+      "category": " Mobile",
+      "image": "/images/quemsoueu.jpg",
+       "url": "https://renatomarquesdavid.netlify.app/"
     }
   ]
   

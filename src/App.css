@@ -453,7 +453,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: rgba(43, 43, 44, 0.75);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
@@ -577,7 +577,10 @@ main {
   min-width: 100%;
   scroll-snap-align: center;
 }
-
+.testimonials-avatar-box img{
+  border-radius: 10px;
+  border: rgba(43, 43, 44, 0.75) 5px solid ;
+}
 .testimonials-avatar-box {
   position: absolute;
   top: 0;
@@ -623,6 +626,7 @@ main {
   pointer-events: none;
   z-index: 1;
   transition: var(--transition-1);
+  
 
 }
 
@@ -1648,7 +1652,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* clients */
 
-  .clients-item { min-width: calc(25% - 38px); }
+  .clients-item { min-width: calc(50% - 98px); 
+  
+  }
 
 
 

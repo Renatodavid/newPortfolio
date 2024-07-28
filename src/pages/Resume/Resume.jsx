@@ -83,6 +83,11 @@ Javascprit, next.js, react.js, bootstrap, html e css."
           <h3 className="h3">Certificações</h3>
         </div>
         <ol className="timeline-list">
+        <TimelineItem
+            title="Residente/ Instituto Localiza"
+            date="01/07/2024 até os dias atuais"
+            description="Iniciei uma nova etapa na minha carreira como residente no Instituto Localiza, em parceria com a Recode e o LocalizaLabs, onde atuo como desenvolvedor back-end e front-end no time de 'Utilização do Carro'. Este programa de residência de 6 meses proporciona uma oportunidade única para aplicar minhas habilidades técnicas em um ambiente colaborativo e inovador"
+          />
           <TimelineItem
             title="FEST- Fábrica Escola de Software e Teste"
             date="jan 2024 — jan 2024 + 80h"
@@ -105,6 +110,14 @@ Adquiri habilidades em lógica de programação utilizando a linguagem JAVA.
 Aprofundei meu conhecimento em linguagens de programação amplamente utilizadas no
 mundo, preparando-me para enfrentar desafios nessa área."
           />
+          <TimelineItem
+            title="One Programação T7/ Alura"
+            date="2024 — 2024+ 330h"
+            description="Iniciante em Programação T7: Especializando-me na área de programação FrontEnd.
+Adquiri habilidades em lógica de programação utilizando a linguagem React.
+Aprofundei meu conhecimento em linguagens de programação amplamente utilizadas no
+mundo, preparando-me para enfrentar desafios nessa área."
+          />
         </ol>
       </div>
 
@@ -117,6 +130,7 @@ mundo, preparando-me para enfrentar desafios nessa área."
           <SkillItem title="Bootstrap" value={80} />
           <SkillItem title="Java" value={70} />
           <SkillItem title="JavaScript" value={60} />
+          <SkillItem title="C#" value={50} />
           <SkillItem title="Vite + React" value={40} />
           <SkillItem title="React" value={40} />
       

@@ -52,6 +52,16 @@ MySQL, Node.js, React, Express, MongoDB, e outros frameworks. 540Hrs."
           <h3 className="h3">Experiência Profissional</h3>
         </div>
         <ol className="timeline-list">
+        <TimelineItem
+            title="Residente/ Instituto Localiza"
+            date="01/07/2024 até os dias atuais"
+            description="Iniciei uma nova etapa na minha carreira como 
+            residente no Instituto Localiza, em parceria com a Recode e
+             o LocalizaLabs, onde atuo como desenvolvedor back-end e front-end no time de
+              'Utilização do Carro'. Este programa de residência de 6 meses proporciona
+               uma oportunidade única para aplicar minhas habilidades técnicas em um
+                ambiente colaborativo e inovador"
+          />
           <TimelineItem
             title="Fest Fabrica Escola de Software e teste Product Onwer / Scrum / Temporário"
             date="Mar — 2024 — Jul — 2024 "
@@ -83,11 +93,7 @@ Javascprit, next.js, react.js, bootstrap, html e css."
           <h3 className="h3">Certificações</h3>
         </div>
         <ol className="timeline-list">
-        <TimelineItem
-            title="Residente/ Instituto Localiza"
-            date="01/07/2024 até os dias atuais"
-            description="Iniciei uma nova etapa na minha carreira como residente no Instituto Localiza, em parceria com a Recode e o LocalizaLabs, onde atuo como desenvolvedor back-end e front-end no time de 'Utilização do Carro'. Este programa de residência de 6 meses proporciona uma oportunidade única para aplicar minhas habilidades técnicas em um ambiente colaborativo e inovador"
-          />
+        
           <TimelineItem
             title="FEST- Fábrica Escola de Software e Teste"
             date="jan 2024 — jan 2024 + 80h"

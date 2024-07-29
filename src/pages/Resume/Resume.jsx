@@ -62,6 +62,16 @@ MySQL, Node.js, React, Express, MongoDB, e outros frameworks. 540Hrs."
                uma oportunidade única para aplicar minhas habilidades técnicas em um
                 ambiente colaborativo e inovador"
           />
+           <TimelineItem
+            title="Recode-Pro- Projeto HAMANI Desenvolvedor Full Stack Jr Temporário."
+            date="Abr — 2024 — Dias atuais "
+            description="Desenvolvi APIs eficazes e bem documentadas em Java e C# para o back-end, além
+de ter experiência na criação de interfaces de usuário responsivas utilizando
+tecnologias atuais para o front-end, trabalhando em Squad formado por 5
+desenvolvedoresJr, sempre visando a comunicação e um código limpo e bem
+estruturado. Front-end criação de sites responsivos utilizando a linguagem
+Javascprit, next.js, react.js, bootstrap, html e css."
+          />
           <TimelineItem
             title="Fest Fabrica Escola de Software e teste Product Onwer / Scrum / Temporário"
             date="Mar — 2024 — Jul — 2024 "
@@ -72,16 +82,7 @@ Scrum Master: Facilitei a implementação eficaz do Scrum, removendo obstáculos
 mantendo a equipe focada e promovendo colaboração para a entrega contínua de valor
 ao cliente."
           />
-          <TimelineItem
-            title="Recode-Pro- Projeto HAMANI Desenvolvedor Full Stack Jr Temporário."
-            date="Abr — 2024 — Dias atuais "
-            description="Desenvolvi APIs eficazes e bem documentadas em Java e C# para o back-end, além
-de ter experiência na criação de interfaces de usuário responsivas utilizando
-tecnologias atuais para o front-end, trabalhando em Squad formado por 5
-desenvolvedoresJr, sempre visando a comunicação e um código limpo e bem
-estruturado. Front-end criação de sites responsivos utilizando a linguagem
-Javascprit, next.js, react.js, bootstrap, html e css."
-          />
+         
         </ol>
       </div>
 
